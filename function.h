@@ -4,4 +4,4 @@
 
 void power();
 void exponential();
-#Endif
+#endif
